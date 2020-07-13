@@ -68,13 +68,15 @@ font-weight:bold;
 	max-height:300px;
 }
 
+.block1{
+	border: 1px solid black;
+	margin:10px;
+}
 
 .good-items{
-         border: 1px solid black;
-		 margin:10px; /*отступ*/
-		 display:inline-flex;
+		margin-top:35px;
+       	display:inline-flex;
 		 flex-wrap:wrap;
-		 margin-top:40px;
 	    /*border-radius: 15px;*/
 }
 
